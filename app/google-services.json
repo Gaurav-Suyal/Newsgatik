@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431658064318",
+    "project_id": "newsgatik",
+    "storage_bucket": "newsgatik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431658064318:android:1e390870e8132de440c1ef",
+        "android_client_info": {
+          "package_name": "com.suyal.newsgatik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431658064318-91nprcgve151ldq8m06dmpvv64kbq08v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1zlV8WXqCUi9K-oQVNDVjTwM4mRXNSu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431658064318-91nprcgve151ldq8m06dmpvv64kbq08v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
